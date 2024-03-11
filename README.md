@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Billzy0439/ecd5fcd6-220b-4f5f-90f4-6a4d91c06d45/03da64b3-09f5-407b-9b72-cf0188e5de6b/_apis/work/boardbadge/5578bcde-f0f8-41a5-92cf-ad0f87851442)](https://dev.azure.com/Billzy0439/ecd5fcd6-220b-4f5f-90f4-6a4d91c06d45/_boards/board/t/03da64b3-09f5-407b-9b72-cf0188e5de6b/Microsoft.RequirementCategory)
 ---
 page_type: sample
 description: This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from React Native apps.
